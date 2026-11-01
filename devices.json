@@ -699558,5 +699558,10 @@
         "https://web.archive.org/web/20260119122330id_/https://www.gsmarena.com/lenovo_yoga_tab_3_10-9744.php"
       ]
     }
+  },
+  {
+    "device_id": "test_worker_20261101",
+    "brand": "SpecMaster Test",
+    "model": "Test Device"
   }
 ]
